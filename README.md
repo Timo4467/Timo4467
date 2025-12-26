@@ -11,7 +11,7 @@ I use **AI-assisted development** as a tool without compromising code quality, a
 - **Topics:** Security, Automation, Infrastructure, CLI tools
 
 ### What I’m working on
-- System & network tools written in Rust
+- System & network tools written in Rust and C++
 - Security-focused backend & infrastructure projects
 - CLI tools and low-level software
 
