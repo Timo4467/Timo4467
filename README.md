@@ -20,5 +20,5 @@ Available for **freelance / contract projects** — no permanent roles.
 I build secure, scalable systems combining software engineering and infrastructure.
 
 ### Contact  
-- Email: timo.werninghaus@gmail.com  
+- Email: timo.werninghaus@werit-solutions.com  
 - LinkedIn: www.linkedin.com/in/timo-werninghaus-ab40721b9
